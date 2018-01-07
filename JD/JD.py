@@ -86,6 +86,7 @@ def main():
     for i in range(2, 21):
         next_page(i)
 if __name__ == '__main__':
+
     main()
 
 

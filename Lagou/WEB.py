@@ -25,5 +25,5 @@ def Get_Data(page, keys):
         time.sleep(3)
 
 if __name__ == '__main__':
-    keys = input('请输入搜索关键字：')
+    keys = input('请输入搜索关键字：：')
     Get_Data(31, keys)
